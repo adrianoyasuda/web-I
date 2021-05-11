@@ -1,0 +1,45 @@
+body{
+    background-color: #0154BC;
+}
+
+.container{
+    background-color: #C15056;
+}
+
+
+strong{
+    color: #810000;
+}
+
+em{
+    background-color: #0056fa;
+}
+
+.content a{
+    color: #0154BC;
+    font-weight: bold;
+}
+
+.floats img{
+    width: 280px;
+    padding: 20px;
+}
+
+#spider-l{
+    float: left;
+}
+
+#spider-r{
+    float: right;
+}
+
+#stan-lee{
+    padding-top: 150px;
+    width: 5px;
+    transition: 1s;
+}
+
+#stan-lee:hover{
+    padding-top: 15px;
+    width: 305px;
+}
